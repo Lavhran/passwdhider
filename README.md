@@ -1,6 +1,6 @@
 # Password hider
 
-Password hider is a simple commandline program used to quickly save passwords without anyone near you seeing them. It can also print the passwords backout complete or in slices.
+Password hider is a simple command line program used to quickly save passwords without anyone near you seeing them. It can also print the passwords backout complete or in slices.
 
 **Table of content**
 
@@ -28,7 +28,7 @@ This program should not be used as a password manager. The encryption is minimal
 
 Sometimes you have to make a new password, and sometimes you don't want to use one of your standard passwords or maybe the website or application needs a very secure password, so you have to make a new password. But you don't have any way to save the password since you are in public and wouldn't want anyone to see it if they accidently look at your screen.
 
-This is the exactly the purpose of this program, it is to quickly store or check new passwords when you are in public. **It is basicly a slightly safer .txt**.
+This is the exactly the purpose of this program, it is to quickly store or check new passwords when you are in public. **It is basically a slightly safer .txt**.
 
 ### How to
 
